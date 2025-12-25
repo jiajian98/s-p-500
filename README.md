@@ -27,6 +27,7 @@ This project provides a comprehensive data-driven analysis of the S&P 500 perfor
 ## Visualizations & Findings
 - Market Leaders vs. Laggards
 The following charts identify the stocks with the highest and lowest cumulative growth over the 5-year period. This highlights the divergence between high-performing sectors (Tech) and struggling industries (Energy/Retail).
+![Sector](images/sector.png)
 
 - Top 10 Performers (% Growth)** ![Top 10 Stocks](images/top_10.png)
 
