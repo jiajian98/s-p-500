@@ -25,15 +25,13 @@ This project provides a comprehensive data-driven analysis of the S&P 500 perfor
 4. Portfolio Correlation: Developed a correlation matrix to identify cluster risks among top-performing assets.
 
 ## Visualizations & Findings
-- Cumulative Returns: Bar charts identifying the top 10 and bottom 10 stocks by total percentage growth.
+- Market Leaders vs. Laggards
+The following charts identify the stocks with the highest and lowest cumulative growth over the 5-year period. This highlights the divergence between high-performing sectors (Tech) and struggling industries (Energy/Retail).
 
-### Market Risk-Reward Profile
-This scatter plot highlights the "Efficient Frontier," showing stocks like NVDA and AMZN that provided high returns with manageable risk.
-![Risk Reward Plot](images/risk_reward.png)
+- Top 10 Performers (% Growth)** ![Top 10 Stocks](images/top_10.png)
 
-### Correlation Matrix
-This heatmap shows how the top 10 winners move in relation to each other, which is vital for diversification strategy.
-![Correlation Heatmap](images/heatmap.png)
+- Bottom 10 Performers (% Growth)** ![Bottom 10 Stocks](images/bottom_10.png)
+
 
 ## Key Visualizations
 
