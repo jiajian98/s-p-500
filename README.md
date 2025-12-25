@@ -31,6 +31,12 @@ This project provides a comprehensive data-driven analysis of the S&P 500 perfor
 
 - Correlation Heatmap: A visual matrix showing how the top 10 winners move in relation to one another, essential for diversification strategy.
 
+## Key Visualizations
+
+| Risk vs. Reward | Correlation Heatmap |
+| :---: | :---: |
+| ![Risk Plot](images/risk_reward.png) | ![Heatmap](images/heatmap.png) |
+
 ## How to Use
 1. Clone the Repo:
 git clone https://github.com/jiajian98/s-p-500.git
