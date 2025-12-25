@@ -27,9 +27,13 @@ This project provides a comprehensive data-driven analysis of the S&P 500 perfor
 ## Visualizations & Findings
 - Cumulative Returns: Bar charts identifying the top 10 and bottom 10 stocks by total percentage growth.
 
-- Risk-Reward Profile: A scatter plot mapping all 500 stocks, highlighting "Alpha" generators like NVDA and AMZN.
+### Market Risk-Reward Profile
+This scatter plot highlights the "Efficient Frontier," showing stocks like NVDA and AMZN that provided high returns with manageable risk.
+![Risk Reward Plot](images/risk_reward.png)
 
-- Correlation Heatmap: A visual matrix showing how the top 10 winners move in relation to one another, essential for diversification strategy.
+### Correlation Matrix
+This heatmap shows how the top 10 winners move in relation to each other, which is vital for diversification strategy.
+![Correlation Heatmap](images/heatmap.png)
 
 ## Key Visualizations
 
