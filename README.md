@@ -29,9 +29,9 @@ This project provides a comprehensive data-driven analysis of the S&P 500 perfor
 The following charts identify the stocks with the highest and lowest cumulative growth over the 5-year period. This highlights the divergence between high-performing sectors (Tech) and struggling industries (Energy/Retail).
 ![Sector](images/sector.png)
 
-- Top 10 Performers (% Growth)** ![Top 10 Stocks](images/top_10.png)
+- Top 10 Performers (% Growth) ![Top 10 Stocks](images/top_10.png)
 
-- Bottom 10 Performers (% Growth)** ![Bottom 10 Stocks](images/bottom_10.png)
+- Bottom 10 Performers (% Growth) ![Bottom 10 Stocks](images/bottom_10.png)
 
 
 ## Key Visualizations
